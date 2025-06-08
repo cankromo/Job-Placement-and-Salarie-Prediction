@@ -1,7 +1,3 @@
-# Job-Placement-and-Salariy-Prediction
-# Job Placement and Salary Analysis : This project focuses on analyzing job placement data and salary comparisons using Python in a Jupyter Notebook environment.
-
-
 # Job Placement and Salary Analysis
 
 This repository contains a data analysis project on job placements and salary comparisons.
